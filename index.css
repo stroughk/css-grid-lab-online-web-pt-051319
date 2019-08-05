@@ -10,7 +10,7 @@ body {
   display: grid;
   grid-template-rows: [header-start] 1fr [header-end] repeatauto, 1fr);
   grid-template-columns: 1fr 1fr 1fr;
-  
+
   /* your properties here */
 }
 
